@@ -56,14 +56,21 @@ Tabs
 
 Searchbox
 ==================
-
+	
+	. Box Background
+	. Box Shape
 	. Searchbox Title
 	. Searchbox Subtitle
 	. Searchbox Input Field
 	. Searchbox Input Bordered Style
-	. Searchbox button
-	. Searchbox Options
+	. border width
+	. Searchbox Placeholder
+	. Searchbox button on / off
+	. Button Text / Button Icon 
+	. Searchbox Dropdown Options
+	. Dropdown Position
 	. Searchbox Categories
+	. categores position
 
 
 
