@@ -1,0 +1,62 @@
+FunFactors
+=====================
+
+	. Number PreFix
+	. Number Suffix
+	. Fun Factors Number
+	. Fun Factors Title
+	. Bordered / Shape
+	. Background
+	. Fun Factors Icon / Fun Factors Image / None
+
+Progressbar
+=========================
+	
+	. Progressbar bar Title
+	. Progressbar Number
+	. Background
+	. Progressbar width
+
+Quotes
+========================
+
+	. Border
+	. Background
+	. Title
+	. Quotes Subtitle
+	. Quotes Icon Style
+	. Alignment
+	. Quotes Provider Name
+
+Accordion
+==================
+	
+	. Accordion Title
+	. Accordion Icon
+	. Accordion Position
+	. Accordion Shape
+	. Accordion Body
+
+Tabs
+===================
+	
+	. Tabs Head
+	. Tabs Head Item
+	. Tab Body
+
+Searchbox
+==================
+
+	. Searchbox Title
+	. Searchbox Subtitle
+	. Searchbox Input Field
+	. Searchbox button
+	. Searchbox Options
+	. Searchbox Categories
+
+
+
+
+
+
+
