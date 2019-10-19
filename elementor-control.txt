@@ -32,6 +32,8 @@ Accordion
 ==================
 	
 	. Accordion Title
+	. Accordion Head to Body Spacing
+	. Active Item No
 	. Accordion Icon
 	. Accordion Position
 	. Accordion Shape
@@ -42,7 +44,15 @@ Tabs
 	
 	. Tabs Head
 	. Tabs Head Item
+	. Tabs Item Spacing
+	. Tab Item Devider yes / no 
+	. Tab Head to Body Spacing
+	. Active Item No
+	. Tab Head Item Icon 
 	. Tab Body
+	. Tab vertical / Tab vertical
+	. Background
+
 
 Searchbox
 ==================
@@ -50,9 +60,12 @@ Searchbox
 	. Searchbox Title
 	. Searchbox Subtitle
 	. Searchbox Input Field
+	. Searchbox Input Bordered Style
 	. Searchbox button
 	. Searchbox Options
 	. Searchbox Categories
+
+
 
 
 
